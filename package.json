@@ -1,0 +1,10 @@
+{
+  "name": "deepseek-harness-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tracks the installed version of DeepSeek Harness (dsh) on this machine and holds the desktop launcher.",
+  "license": "MIT",
+  "dependencies": {
+    "@deepseek-ai/dsh": "0.1.0-rc.6"
+  }
+}
